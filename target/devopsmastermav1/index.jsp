@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Next topic is docker" %></h2>
+<h2><%= "Next topic is terraform" %></h2>
 </body>
 </html>
